@@ -11,14 +11,12 @@ I'm a mathematics educator who likes coding in her free time.
   
   Feel free to report bugs by messaging me!
 </p>
-
-
+<br>
 <p>
   I've also been working with the <a href="https://stardb.gg/">StarDB</a> team for their weekly puzzle challenge.
   They are a bunch of great coders that provide an invaluable system for "Honkai: Star Rail" players who want to mald a bit 🫣
 </p>
-
-
+<br>
 <p>
   I'm also looking to make my website where I can also put my music things, but no concrete plans for that yet 😭
 </p>
