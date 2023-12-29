@@ -1,4 +1,4 @@
-# Hi, I'm tsundere
+# Hi, I'm Tsundere (you can call me tsun)
 
 I'm a mathematics educator who likes coding in her free time.
 
