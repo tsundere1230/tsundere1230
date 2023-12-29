@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm tsundere
 
-<!--
-**tsundere1230/tsundere1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mathematics educator who likes coding in her free time.
 
-Here are some ideas to get you started:
+<p>
+  Recently I've been working on <a href="https://escapehkbeta.surge.sh/arianna/welcome.html">EscapeHK</a>, an online escape room puzzle currently in semi-public alpha. The format is heavily inspired by <a href="https://ebonyriddle.com/">Ebony.</a>
+  Features:
+  - 30 numbered levels with branching exits (about 50 levels in total)
+  - Original sound track also composed by me
+  - Original characters and story
+  
+  Feel free to report bugs by messaging me!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>
+  I've also been working with the <a href="https://stardb.gg/">StarDB</a> team for their weekly puzzle challenge.
+  They are a bunch of great coders that provide an invaluable system for "Honkai: Star Rail" players who want to mald a bit 🫣
+</p>
+
+
+<p>
+  I'm also looking to make my website where I can also put my music things, but no concrete plans for that yet 😭
+</p>
