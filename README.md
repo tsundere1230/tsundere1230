@@ -1,6 +1,6 @@
 # Hi, I'm Tsundere (you can call me tsun)
 
-I'm a mathematics educator who likes coding in her free time.
+I'm a cosplayer and musician who likes coding in her free time.
 
 
 Recently I've been working on [EscapeHK](https://escapehkbeta.surge.sh/arianna/welcome.html), an online escape room puzzle currently in semi-public alpha. The format is heavily inspired by <a href="https://ebonyriddle.com/">Ebony.</a>
